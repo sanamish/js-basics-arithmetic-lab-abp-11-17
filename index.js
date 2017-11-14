@@ -15,4 +15,4 @@ randomNumber =Math.random(1,21)
 
 randomInteger= Math.floor(randomNumber)
 
-randomUserID=(Number.isInteger(randomUserID))
+randomUserID=(Number.isInteger(randomInteger))
