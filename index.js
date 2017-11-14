@@ -15,4 +15,4 @@ randomNumber =Math.random(1,21)
 
 randomInteger= Math.floor(randomNumber)
 
-randomUserID
+randomUserID= Number.isInteger(randomInteger+1000000000)
