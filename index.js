@@ -13,4 +13,4 @@ ageIsValid = Number.isInteger(currentAge)
 
 randomNumber =Math.random(1,21)
 
-randomInteger= randomNumber.floor
+randomInteger= Math.floor(randomNumber)
